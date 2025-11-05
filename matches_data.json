@@ -1,0 +1,933 @@
+{
+    "apikey": "c26f8213-c725-4ccc-b671-c2a1cc413a06",
+    "data": [
+        {
+            "id": "26691c2f-71cf-4732-8ef9-8d72cf22c544",
+            "name": "Nepal vs United States Of America, 86th Match",
+            "matchType": "odi",
+            "status": "Match not started",
+            "venue": "Dubai International Cricket Stadium, Dubai",
+            "date": "2025-10-26",
+            "dateTimeGMT": "2025-10-26T05:30:00",
+            "teams": [
+                "Nepal",
+                "United States Of America"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Nepal",
+                    "shortname": "NEP",
+                    "img": "https://g.cricapi.com/iapi/54-637877084789981539.webp?w=48"
+                },
+                {
+                    "name": "United States of America",
+                    "shortname": "US",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "9b836620-68cb-4798-9647-d479aa871b76",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "24098792-dc50-4c53-a766-98b95e17f45f",
+            "name": "Brazil vs Mexico, 3rd Match",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Sao Fernando Polo and Cricket Club, Seropedica",
+            "date": "2025-11-01",
+            "dateTimeGMT": "2025-11-01T16:30:00",
+            "teams": [
+                "Brazil",
+                "Mexico"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Brazil",
+                    "shortname": "BRA",
+                    "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
+                },
+                {
+                    "name": "Mexico",
+                    "shortname": "MEX",
+                    "img": "https://g.cricapi.com/iapi/628-637872735821966360.webp?w=48"
+                }
+            ],
+            "series_id": "42ff6b0e-114a-4b95-b2d3-dc6953eced45",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "599b207f-9be1-4c14-a622-031db5e6b889",
+            "name": "Brazil vs Panama, 2nd Match",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Sao Fernando Polo and Cricket Club, Seropedica",
+            "date": "2025-10-31",
+            "dateTimeGMT": "2025-10-31T12:00:00",
+            "teams": [
+                "Brazil",
+                "Panama"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Brazil",
+                    "shortname": "BRA",
+                    "img": "https://g.cricapi.com/iapi/590-637928918903393620.png?w=48"
+                },
+                {
+                    "name": "Panama",
+                    "shortname": "PNM",
+                    "img": "https://g.cricapi.com/iapi/639-637870990595820825.webp?w=48"
+                }
+            ],
+            "series_id": "42ff6b0e-114a-4b95-b2d3-dc6953eced45",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "c707e51a-0fc8-4d9c-9fc1-06827e47af02",
+            "name": "Panama vs Mexico, 1st Match",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Sao Fernando Polo and Cricket Club, Seropedica",
+            "date": "2025-10-30",
+            "dateTimeGMT": "2025-10-30T16:30:00",
+            "teams": [
+                "Panama",
+                "Mexico"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Mexico",
+                    "shortname": "MEX",
+                    "img": "https://g.cricapi.com/iapi/628-637872735821966360.webp?w=48"
+                },
+                {
+                    "name": "Panama",
+                    "shortname": "PNM",
+                    "img": "https://g.cricapi.com/iapi/639-637870990595820825.webp?w=48"
+                }
+            ],
+            "series_id": "42ff6b0e-114a-4b95-b2d3-dc6953eced45",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "350c62b1-c906-45f1-9899-406c77c57896",
+            "name": "Thailand Women vs Papua New Guinea Women, 6th Match",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Terdthai Cricket Ground, Bangkok",
+            "date": "2025-11-17",
+            "dateTimeGMT": "2025-11-17T06:30:00",
+            "teams": [
+                "Thailand Women",
+                "Papua New Guinea Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Papua New Guinea Women",
+                    "shortname": "PN -W",
+                    "img": "https://g.cricapi.com/iapi/2425-637991983542500362.webp?w=48"
+                },
+                {
+                    "name": "Thailand Women",
+                    "shortname": "THW",
+                    "img": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=48"
+                }
+            ],
+            "series_id": "b68d7d9a-cd90-402f-bd82-8a1e3539a0e1",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "4bf44a12-2f86-466e-a580-b5e9fb08f919",
+            "name": "Scotland Women vs Namibia Women, 5th Match",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Terdthai Cricket Ground, Bangkok",
+            "date": "2025-11-17",
+            "dateTimeGMT": "2025-11-17T02:00:00",
+            "teams": [
+                "Scotland Women",
+                "Namibia Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Namibia Women",
+                    "shortname": "NAMW",
+                    "img": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=48"
+                },
+                {
+                    "name": "Scotland Women",
+                    "shortname": "SCOW",
+                    "img": "https://g.cricapi.com/iapi/2216-637981637047617665.webp?w=48"
+                }
+            ],
+            "series_id": "b68d7d9a-cd90-402f-bd82-8a1e3539a0e1",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "696f43a7-5913-4d26-931c-ba84440f529c",
+            "name": "Thailand Women vs Scotland Women, 4th Match",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Terdthai Cricket Ground, Bangkok",
+            "date": "2025-11-15",
+            "dateTimeGMT": "2025-11-15T06:30:00",
+            "teams": [
+                "Thailand Women",
+                "Scotland Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Scotland Women",
+                    "shortname": "SCOW",
+                    "img": "https://g.cricapi.com/iapi/2216-637981637047617665.webp?w=48"
+                },
+                {
+                    "name": "Thailand Women",
+                    "shortname": "THW",
+                    "img": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=48"
+                }
+            ],
+            "series_id": "b68d7d9a-cd90-402f-bd82-8a1e3539a0e1",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "38e5bd74-dfe1-410c-8083-36282fca18d9",
+            "name": "Namibia Women vs Papua New Guinea Women, 3rd Match",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Terdthai Cricket Ground, Bangkok",
+            "date": "2025-11-15",
+            "dateTimeGMT": "2025-11-15T02:00:00",
+            "teams": [
+                "Namibia Women",
+                "Papua New Guinea Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Namibia Women",
+                    "shortname": "NAMW",
+                    "img": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=48"
+                },
+                {
+                    "name": "Papua New Guinea Women",
+                    "shortname": "PN -W",
+                    "img": "https://g.cricapi.com/iapi/2425-637991983542500362.webp?w=48"
+                }
+            ],
+            "series_id": "b68d7d9a-cd90-402f-bd82-8a1e3539a0e1",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "8d51f6fa-0cfb-4339-aacc-ad76429add78",
+            "name": "Thailand Women vs Namibia Women, 2nd Match",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Terdthai Cricket Ground, Bangkok",
+            "date": "2025-11-14",
+            "dateTimeGMT": "2025-11-14T06:30:00",
+            "teams": [
+                "Thailand Women",
+                "Namibia Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Namibia Women",
+                    "shortname": "NAMW",
+                    "img": "https://g.cricapi.com/iapi/1128-637877082812217889.webp?w=48"
+                },
+                {
+                    "name": "Thailand Women",
+                    "shortname": "THW",
+                    "img": "https://g.cricapi.com/iapi/2351-637985730472466346.webp?w=48"
+                }
+            ],
+            "series_id": "b68d7d9a-cd90-402f-bd82-8a1e3539a0e1",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "57c2f790-ea40-4fe7-91b9-995cb1ee24f6",
+            "name": "Scotland Women vs Papua New Guinea Women, 1st Match",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Terdthai Cricket Ground, Bangkok",
+            "date": "2025-11-14",
+            "dateTimeGMT": "2025-11-14T02:00:00",
+            "teams": [
+                "Scotland Women",
+                "Papua New Guinea Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Papua New Guinea Women",
+                    "shortname": "PN -W",
+                    "img": "https://g.cricapi.com/iapi/2425-637991983542500362.webp?w=48"
+                },
+                {
+                    "name": "Scotland Women",
+                    "shortname": "SCOW",
+                    "img": "https://g.cricapi.com/iapi/2216-637981637047617665.webp?w=48"
+                }
+            ],
+            "series_id": "b68d7d9a-cd90-402f-bd82-8a1e3539a0e1",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "a1387216-3085-4d66-8394-cb5a604c663c",
+            "name": "Papua New Guinea Women vs United Arab Emirates Women, 4th ODI",
+            "matchType": "odi",
+            "status": "Papua New Guinea Women won by 78 runs",
+            "venue": "Amini Park, Port Moresby",
+            "date": "2025-10-19",
+            "dateTimeGMT": "2025-10-19T00:00:00",
+            "teams": [
+                "Papua New Guinea Women",
+                "United Arab Emirates Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Papua New Guinea Women",
+                    "shortname": "PN -W",
+                    "img": "https://g.cricapi.com/iapi/2425-637991983542500362.webp?w=48"
+                },
+                {
+                    "name": "United Arab Emirates Women",
+                    "shortname": "UAEW",
+                    "img": "https://g.cricapi.com/iapi/1136-637877081374906304.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 210,
+                    "w": 9,
+                    "o": 50,
+                    "inning": "Papua New Guinea Women Inning 1"
+                },
+                {
+                    "r": 132,
+                    "w": 10,
+                    "o": 42.4,
+                    "inning": "United Arab Emirates Women Inning 1"
+                }
+            ],
+            "series_id": "42d5318d-afa8-4483-9405-35963227943a",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "ac3945dd-d367-4099-9047-d40115198b4a",
+            "name": "Uganda Women vs Canada Women, 5th T20I",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Lugogo Stadium, Kampala",
+            "date": "2025-10-26",
+            "dateTimeGMT": "2025-10-26T10:30:00",
+            "teams": [
+                "Uganda Women",
+                "Canada Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Canada Women",
+                    "shortname": "CW",
+                    "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
+                },
+                {
+                    "name": "Uganda Women",
+                    "shortname": "UGAW",
+                    "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
+                }
+            ],
+            "series_id": "98e7e376-ab55-49b0-b92a-1d0765f38699",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "13754a71-78e0-4420-adf2-98e946e8ff13",
+            "name": "Uganda Women vs Canada Women, 4th T20I",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Lugogo Stadium, Kampala",
+            "date": "2025-10-24",
+            "dateTimeGMT": "2025-10-24T10:30:00",
+            "teams": [
+                "Uganda Women",
+                "Canada Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Canada Women",
+                    "shortname": "CW",
+                    "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
+                },
+                {
+                    "name": "Uganda Women",
+                    "shortname": "UGAW",
+                    "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
+                }
+            ],
+            "series_id": "98e7e376-ab55-49b0-b92a-1d0765f38699",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "c0b5a1fb-b7e7-4f3c-b63f-9d237d72f27a",
+            "name": "Romania vs Austria, 4th T20I",
+            "matchType": "t20",
+            "status": "Austria won by 42 runs",
+            "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+            "date": "2025-10-19",
+            "dateTimeGMT": "2025-10-19T11:30:00",
+            "teams": [
+                "Romania",
+                "Austria"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Austria",
+                    "shortname": "AUT",
+                    "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+                },
+                {
+                    "name": "Romania",
+                    "shortname": "ROM",
+                    "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 207,
+                    "w": 6,
+                    "o": 20,
+                    "inning": "Austria Inning 1"
+                },
+                {
+                    "r": 165,
+                    "w": 10,
+                    "o": 18.5,
+                    "inning": "Romania Inning 1"
+                }
+            ],
+            "series_id": "c06677bf-8b01-46dd-881e-6bba6a58f2d2",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "8be4592f-0521-4ef9-8d57-28d4824e8fa6",
+            "name": "Romania vs Austria, 3rd T20I",
+            "matchType": "t20",
+            "status": "Austria won by 7 wkts",
+            "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+            "date": "2025-10-19",
+            "dateTimeGMT": "2025-10-19T07:30:00",
+            "teams": [
+                "Romania",
+                "Austria"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Austria",
+                    "shortname": "AUT",
+                    "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+                },
+                {
+                    "name": "Romania",
+                    "shortname": "ROM",
+                    "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 157,
+                    "w": 10,
+                    "o": 20,
+                    "inning": "Romania Inning 1"
+                },
+                {
+                    "r": 163,
+                    "w": 3,
+                    "o": 16,
+                    "inning": "Austria Inning 1"
+                }
+            ],
+            "series_id": "c06677bf-8b01-46dd-881e-6bba6a58f2d2",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "e84e28ee-d164-4c59-8574-030dffd1e3ec",
+            "name": "Papua New Guinea Women vs United Arab Emirates Women, 3rd ODI",
+            "matchType": "odi",
+            "status": "United Arab Emirates Women won by 160 runs",
+            "venue": "Amini Park, Port Moresby",
+            "date": "2025-10-17",
+            "dateTimeGMT": "2025-10-17T00:00:00",
+            "teams": [
+                "Papua New Guinea Women",
+                "United Arab Emirates Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Papua New Guinea Women",
+                    "shortname": "PN -W",
+                    "img": "https://g.cricapi.com/iapi/2425-637991983542500362.webp?w=48"
+                },
+                {
+                    "name": "United Arab Emirates Women",
+                    "shortname": "UAEW",
+                    "img": "https://g.cricapi.com/iapi/1136-637877081374906304.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 193,
+                    "w": 7,
+                    "o": 50,
+                    "inning": "United Arab Emirates Women Inning 1"
+                },
+                {
+                    "r": 33,
+                    "w": 10,
+                    "o": 15.4,
+                    "inning": "Papua New Guinea Women Inning 1"
+                }
+            ],
+            "series_id": "42d5318d-afa8-4483-9405-35963227943a",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "8a8111f7-1683-43bd-a102-d96287d7b6b2",
+            "name": "Uganda Women vs Canada Women, 3rd T20I",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Lugogo Stadium, Kampala",
+            "date": "2025-10-23",
+            "dateTimeGMT": "2025-10-23T08:30:00",
+            "teams": [
+                "Uganda Women",
+                "Canada Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Canada Women",
+                    "shortname": "CW",
+                    "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
+                },
+                {
+                    "name": "Uganda Women",
+                    "shortname": "UGAW",
+                    "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
+                }
+            ],
+            "series_id": "98e7e376-ab55-49b0-b92a-1d0765f38699",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": false
+        },
+        {
+            "id": "5856d2c4-650a-4aa6-8ddd-4f744ef476fe",
+            "name": "Uganda Women vs Canada Women, 2nd T20I",
+            "matchType": "t20",
+            "status": "Uganda Women won by 4 wkts",
+            "venue": "Lugogo Stadium, Kampala",
+            "date": "2025-10-21",
+            "dateTimeGMT": "2025-10-21T10:30:00",
+            "teams": [
+                "Uganda Women",
+                "Canada Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Canada Women",
+                    "shortname": "CW",
+                    "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
+                },
+                {
+                    "name": "Uganda Women",
+                    "shortname": "UGAW",
+                    "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 82,
+                    "w": 6,
+                    "o": 20,
+                    "inning": "Canada Women Inning 1"
+                },
+                {
+                    "r": 83,
+                    "w": 6,
+                    "o": 19,
+                    "inning": "Uganda Women Inning 1"
+                }
+            ],
+            "series_id": "98e7e376-ab55-49b0-b92a-1d0765f38699",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "ce0a1c75-7ef0-4f4b-9a38-d60e22432817",
+            "name": "Uganda Women vs Canada Women, 1st T20I",
+            "matchType": "t20",
+            "status": "Uganda Women won by 7 wkts",
+            "venue": "Lugogo Stadium, Kampala",
+            "date": "2025-10-20",
+            "dateTimeGMT": "2025-10-20T08:30:00",
+            "teams": [
+                "Uganda Women",
+                "Canada Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Canada Women",
+                    "shortname": "CW",
+                    "img": "https://g.cricapi.com/iapi/14-637877085850526611.webp?w=48"
+                },
+                {
+                    "name": "Uganda Women",
+                    "shortname": "UGAW",
+                    "img": "https://g.cricapi.com/iapi/1135-637877086844153505.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 67,
+                    "w": 10,
+                    "o": 19,
+                    "inning": "Canada Women Inning 1"
+                },
+                {
+                    "r": 68,
+                    "w": 3,
+                    "o": 12,
+                    "inning": "Uganda Women Inning 1"
+                }
+            ],
+            "series_id": "98e7e376-ab55-49b0-b92a-1d0765f38699",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "909fc7fb-5e74-44d1-9087-51f65665e431",
+            "name": "Papua New Guinea Women vs United Arab Emirates Women, 2nd ODI",
+            "matchType": "odi",
+            "status": "Papua New Guinea Women won by 3 wkts",
+            "venue": "Amini Park, Port Moresby",
+            "date": "2025-10-15",
+            "dateTimeGMT": "2025-10-15T23:30:00",
+            "teams": [
+                "Papua New Guinea Women",
+                "United Arab Emirates Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Papua New Guinea Women",
+                    "shortname": "PN -W",
+                    "img": "https://g.cricapi.com/iapi/2425-637991983542500362.webp?w=48"
+                },
+                {
+                    "name": "United Arab Emirates Women",
+                    "shortname": "UAEW",
+                    "img": "https://g.cricapi.com/iapi/1136-637877081374906304.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 143,
+                    "w": 10,
+                    "o": 45.4,
+                    "inning": "United Arab Emirates Women Inning 1"
+                },
+                {
+                    "r": 146,
+                    "w": 7,
+                    "o": 42.5,
+                    "inning": "Papua New Guinea Women Inning 1"
+                }
+            ],
+            "series_id": "42d5318d-afa8-4483-9405-35963227943a",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "d1271ce4-b7bd-4491-a49f-4b49cb0f2abf",
+            "name": "Papua New Guinea Women vs United Arab Emirates Women, 1st ODI",
+            "matchType": "odi",
+            "status": "United Arab Emirates Women won by 5 wkts",
+            "venue": "Amini Park, Port Moresby",
+            "date": "2025-10-12",
+            "dateTimeGMT": "2025-10-12T23:30:00",
+            "teams": [
+                "Papua New Guinea Women",
+                "United Arab Emirates Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Papua New Guinea Women",
+                    "shortname": "PN -W",
+                    "img": "https://g.cricapi.com/iapi/2425-637991983542500362.webp?w=48"
+                },
+                {
+                    "name": "United Arab Emirates Women",
+                    "shortname": "UAEW",
+                    "img": "https://g.cricapi.com/iapi/1136-637877081374906304.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 93,
+                    "w": 10,
+                    "o": 33.2,
+                    "inning": "Papua New Guinea Women Inning 1"
+                },
+                {
+                    "r": 97,
+                    "w": 5,
+                    "o": 33.1,
+                    "inning": "United Arab Emirates Women Inning 1"
+                }
+            ],
+            "series_id": "42d5318d-afa8-4483-9405-35963227943a",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "873cc73e-04c3-4e2d-a461-95ff50639cad",
+            "name": "Romania vs Austria, 2nd T20I",
+            "matchType": "t20",
+            "status": "Romania won by 3 wkts",
+            "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+            "date": "2025-10-18",
+            "dateTimeGMT": "2025-10-18T11:30:00",
+            "teams": [
+                "Romania",
+                "Austria"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Austria",
+                    "shortname": "AUT",
+                    "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+                },
+                {
+                    "name": "Romania",
+                    "shortname": "ROM",
+                    "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 171,
+                    "w": 10,
+                    "o": 19.2,
+                    "inning": "Austria Inning 1"
+                },
+                {
+                    "r": 172,
+                    "w": 7,
+                    "o": 19.2,
+                    "inning": "Romania Inning 1"
+                }
+            ],
+            "series_id": "c06677bf-8b01-46dd-881e-6bba6a58f2d2",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "81e4b1a5-7e8a-45dc-ae14-c768c3f25105",
+            "name": "Romania vs Austria, 1st T20I",
+            "matchType": "t20",
+            "status": "Austria won by 4 wkts",
+            "venue": "Moara Vlasiei Cricket Ground, Ilfov County",
+            "date": "2025-10-18",
+            "dateTimeGMT": "2025-10-18T07:00:00",
+            "teams": [
+                "Romania",
+                "Austria"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Austria",
+                    "shortname": "AUT",
+                    "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+                },
+                {
+                    "name": "Romania",
+                    "shortname": "ROM",
+                    "img": "https://g.cricapi.com/iapi/645-637867439654876721.png?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 173,
+                    "w": 9,
+                    "o": 20,
+                    "inning": "Romania Inning 1"
+                },
+                {
+                    "r": 177,
+                    "w": 6,
+                    "o": 19,
+                    "inning": "Austria Inning 1"
+                }
+            ],
+            "series_id": "c06677bf-8b01-46dd-881e-6bba6a58f2d2",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "2247f80a-1b03-43c7-8485-6520877cac0d",
+            "name": "Pakistan vs South Africa, 3rd ODI",
+            "matchType": "odi",
+            "status": "Match not started",
+            "venue": "Iqbal Stadium, Faisalabad",
+            "date": "2025-11-08",
+            "dateTimeGMT": "2025-11-08T09:00:00",
+            "teams": [
+                "Pakistan",
+                "South Africa"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Pakistan",
+                    "shortname": "PAK",
+                    "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+                },
+                {
+                    "name": "South Africa",
+                    "shortname": "RSA",
+                    "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+                }
+            ],
+            "series_id": "6dbe4015-9930-44cd-ac38-7107c8342834",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "443c306d-3407-43e9-9169-3d262a25b1a5",
+            "name": "Pakistan vs South Africa, 2nd ODI",
+            "matchType": "odi",
+            "status": "Match not started",
+            "venue": "Iqbal Stadium, Faisalabad",
+            "date": "2025-11-06",
+            "dateTimeGMT": "2025-11-06T09:00:00",
+            "teams": [
+                "Pakistan",
+                "South Africa"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Pakistan",
+                    "shortname": "PAK",
+                    "img": "https://g.cricapi.com/iapi/66-637877075103236690.webp?w=48"
+                },
+                {
+                    "name": "South Africa",
+                    "shortname": "RSA",
+                    "img": "https://g.cricapi.com/iapi/82-637877071839088912.webp?w=48"
+                }
+            ],
+            "series_id": "6dbe4015-9930-44cd-ac38-7107c8342834",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": false,
+            "matchEnded": false
+        }
+    ],
+    "status": "success",
+    "info": {
+        "hitsToday": 5,
+        "hitsUsed": 1,
+        "hitsLimit": 100,
+        "credits": 0,
+        "server": 15,
+        "offsetRows": 0,
+        "totalRows": 13196,
+        "queryTime": 153.7195,
+        "s": 0,
+        "cache": 0
+    }
+}
